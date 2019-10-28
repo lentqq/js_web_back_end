@@ -1,0 +1,15 @@
+{
+  "name": "01.intro-to-node",
+  "version": "1.0.0",
+  "description": "My first node demo project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "N.K",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
